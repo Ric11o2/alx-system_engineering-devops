@@ -1,1 +1,1 @@
-This is for the shell basics project
+this directory is for 0x00-shell_basics

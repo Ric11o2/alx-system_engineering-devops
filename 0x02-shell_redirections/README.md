@@ -1,1 +1,1 @@
-shell redirection alx
+this directory is for shell redirection 
